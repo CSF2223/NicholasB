@@ -1,7 +1,7 @@
 /*
 Color Palette
-background color: #200439
-primary: #512C73
+background color: #10A19D
+primary: #5F8D4E
 secondary: #361356
 tertiary: #6F4D8F
 accent: #9277AC
@@ -23,7 +23,7 @@ body {
     padding: 0;
     Font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background-color: #200439;
+    background-color: #00FFF6;
     color: #fff;
 }
 
@@ -41,7 +41,7 @@ body {
 .heroImage img {
     border-radius: 6rem;
     box-shadow: 10px 10px #000;
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 .button {
-    background-color: #fff;
+    background-color: #361356;
     padding: 1rem;
     border: 1px solid #9277AC;
     border-radius: 25px;
@@ -83,7 +83,7 @@ body {
 }
 
 .button:hover {
-    background-color: #361356;
+    background-color: #0E5E6F;
     color: #c5b358;
     transform: scale(1.5);
     /*(150% zoom-note: if the zoom is too large it will go outside of the viewport)*/
@@ -150,7 +150,7 @@ body {
 
 footer {
     text-align: center;
-    color: #c5b358;
+    color: #06283D;
     margin: 10rem 0;
     border-top: 1xp solid #9277Ac;
     
@@ -160,7 +160,7 @@ footer {
     margin: 1rem;
     padding: 1rem;
     font-size: 1rem;
-    color: #c5b358;
+    color: #2192FF;
     display:block;
 }
 
