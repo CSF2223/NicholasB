@@ -46,7 +46,7 @@ black: #000
 
 .navbar-links li a {
     text-decoration: none;
-    color: #fff;
+    color: #0002A1;
     padding: 0.5rem 2rem;
     display: block;
 }
@@ -77,7 +77,7 @@ bottomNav{
     margin: 0;
     padding: 0;
     display: flex;
-    justify-comtent: center;
+    justify-content: center;
     align-items: center;
 }
 

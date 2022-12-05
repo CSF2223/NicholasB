@@ -41,8 +41,8 @@ body {
 .heroImage img {
     border-radius: 6rem;
     box-shadow: 10px 10px #000;
-    width: 50%;
-    height: auto;
+    width: 100%;
+    height: auto%;
 }
 
 .heroText {
@@ -53,7 +53,7 @@ body {
 }
 
 .heroName {
-    color: #c5b358;
+    color: #263159;
     font-size: 2.5rem;
     text-transform: uppercase;
 }
@@ -152,7 +152,7 @@ footer {
     text-align: center;
     color: #06283D;
     margin: 10rem 0;
-    border-top: 1xp solid #9277Ac;
+    border-top: 1px solid #9277Ac;
     
 }
 
